@@ -89,7 +89,7 @@
 
     <div class="profile-card text-center">
         <!-- รูปภาพส่วนตัว: เปลี่ยน path ให้ตรงกับไฟล์รูปจริงใน public/images -->
-        <img src="https://i.pinimg.com/736x/cb/e1/6c/cbe16ce91fe76b1865d75565d4fa7655.jpg" alt="Profile Picture" class="profile-img mb-3">
+       <img src="https://i.pinimg.com/736x/25/15/43/2515436fd6c475b236827d3ca93a85d4.jpg" alt="Profile Picture" class="profile-img mb-3">
 
         <h3 class="fw-bold mb-1">เอกฉัท ทองอร่าม</h3>
         <p class="text-muted mb-4">รหัสนักศึกษา: 68122420005</p>

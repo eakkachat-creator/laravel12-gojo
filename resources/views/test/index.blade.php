@@ -3,7 +3,7 @@
 
 <body>
 
-    <h2>Gallery of Anuwat 68122420015</h2>
+    <h2>Gallery of Eakkachat 68122420005</h2>
     ant
     <a href="/gallery/ant"><img src="{{$ant}}" width="300" height="200" >
 </a>
